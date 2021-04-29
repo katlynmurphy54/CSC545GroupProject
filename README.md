@@ -1,4 +1,4 @@
-# CSC 545 Group Project
+# CSC 545 Group Project - Spring 2021
 
 This is the source code for our submission of the CSC 545 group project in Spring 2021 @ EKU.
 
