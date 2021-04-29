@@ -1,8 +1,8 @@
-# CSC 545 Group Project - Spring 2021
+# CSC 545 - Theory of Database Systems - Spring 2021
+
+## Group Project - Jadon Calvert and Katlyn Murphy
 
 This is the source code for our submission of the CSC 545 group project in Spring 2021 @ EKU.
-
-Contributors: Jadon Calvert and Katlyn Murphy
 
 ## Instructions for running
 
