@@ -4,6 +4,8 @@
 
 This is the source code for our submission of the CSC 545 group project in Spring 2021 @ EKU.
 
+Purpose: The goal was to apply the basic database design theory, use Oracle SQL to create and manipulate a database, and use JDBC to implement a database application.
+
 ## Instructions for running
 
 1. Clone the repository using NetBeans 8.2
